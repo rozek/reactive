@@ -28,3 +28,5 @@ ui-debug.log
 firebase-debug.log
 .env
 .eslintcache
+
+package-lock.json
